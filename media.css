@@ -1,0 +1,210 @@
+@media screen and (min-width: 280px)
+{
+    .moto{
+        width: 15vmin;
+    }
+    .moto_text{
+        font-size: 2vmin;
+    }
+    .p_header_text{
+        font-size: 1vmin;
+    }
+    .button{
+        width:75%;
+    }
+    .button_list{
+        padding-left: 20%;
+    }
+    .button_href{
+        font-size: 2vmin;
+    }
+    .content_name{
+        font-size: 2vmin;
+    }
+    .content_text{
+        font-size: 1vmin;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .addinfo_text{
+        font-size: 1vmin;
+    }
+    .footer_text{
+        font-size: 1vmin;
+    }
+}
+
+@media screen and (min-width: 375px)
+{
+    .moto{
+        width: 15vmin;
+    }
+    .moto_text{
+        font-size: 2vmin;
+    }
+    .p_header_text{
+        font-size: 1vmin;
+    }
+    .button{
+        width:75%;
+    }
+    .button_list{
+        padding-left: 20%;
+    }
+    .button_href{
+        font-size: 2vmin;
+    }
+    .content_name{
+        font-size: 2vmin;
+    }
+    .content_text{
+        font-size: 1vmin;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .addinfo_text{
+        font-size: 1vmin;
+    }
+    .footer_text{
+        font-size: 1vmin;
+    }
+}
+@media screen and (min-width: 410px)
+{
+    .moto{
+        width: 17vmin;
+    }
+    .moto_text{
+        font-size: 2vmin;
+    }
+    .p_header_text{
+        font-size: 1vmin;
+    }
+    .button{
+        width:85%;
+    }
+    .button_list{
+        padding-left: 15%;
+    }
+    .button_href{
+        font-size: 2vmin;
+    }
+    .content_name{
+        font-size: 2vmin;
+    }
+    .content_text{
+        font-size: 1vmin;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .addinfo_text{
+        font-size: 1vmin;
+    }
+    .footer_text{
+        font-size: 1vmin;
+    }
+}
+
+@media screen and (min-width: 760px)
+{
+    .moto{
+        width: 17vmin;
+    }
+    .moto_text{
+        font-size: 2vmin;
+    }
+    .p_header_text{
+        font-size: 1.1vmin;
+    }
+    .button{
+        width:85%;
+    }
+    .button_list{
+        padding-left: 12%;
+    }
+    .button_href{
+        font-size: 2vmin;
+    }
+    .content_name{
+        font-size: 2vmin;
+    }
+    .content_text{
+        font-size: 1vmin;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .addinfo_text{
+        font-size: 1.1vmin;
+    }
+    .footer_text{
+        font-size: 1.1vmin;
+    }
+}
+
+@media screen and (min-width: 820px)
+{
+    .moto{
+        width: 17vmin;
+    }
+    .moto_text{
+        font-size: 2vmin;
+    }
+    .p_header_text{
+        font-size: 1.5vmin;
+    }
+    .button{
+        width:85%;
+    }
+    .button_list{
+        padding-left: 17%;
+    }
+    .button_href{
+        font-size: 2vmin;
+    }
+    .content_name{
+        font-size: 3vmin;
+    }
+    .content_text{
+        font-size: 1.5vmin;
+    }
+    .addinfo_text{
+        font-size: 1.5vmin;
+    }
+    .footer_text{
+        font-size: 1.5vmin;
+    }
+}
+
+@media screen and (min-width: 1000px)
+{
+   .moto{
+        width: 30vmin;
+   }
+   .moto_text{
+    font-size: 3vmin;
+}
+.p_header_text{
+    font-size: 2vmin;
+}
+.button{
+    width:30vmin;
+}
+.button_list{
+    padding-left: 2%;
+}
+.button_href{
+    font-size: 3vmin;
+}
+.content_name{
+    font-size: 3vmin;
+}
+.content_text{
+    font-size: 2vmin;
+}
+.addinfo_text{
+    font-size: 2vmin;
+}
+.footer_text{
+    font-size: 2vmin;
+}
+}

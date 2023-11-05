@@ -1,0 +1,133 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.grid_container{
+    min-height: 100vh;
+    display: grid;
+    grid-template-columns: 24vw 70vw;
+    grid-template-rows: minmax(25vh, auto) 1fr minmax(25vh, auto);
+    grid-column-gap: 2em;
+}
+
+.menu{
+    background-color: #a1ff91;
+    grid-column: 1;
+    grid-row: 1/3;
+}
+.addinfo{
+    background-color: #5eca1b;
+    grid-column: 1;
+    grid-row: 3/4;
+}
+.page_header{
+    background-color: #5eca1b;
+    grid-column: 2/4;
+    grid-row: 1;
+}
+.page_content{
+    background-color: #a1ff91;
+    grid-column: 2/4;
+    grid-row: 2/3;
+}
+.page_footer{
+    background-color: #5eca1b;
+    grid-column: 2/4;
+    grid-row: 3/4;
+}
+
+
+.page_header{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    grid-template-columns: 25% 70%;
+    grid-column-gap: 2%;
+}
+.moto{
+    height: 7vmin;
+    width: 30vmin;
+    background-color: #ffffff;
+    border-radius: 2vmin;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 7vmin;
+    justify-content: center;
+    align-items: center;
+}
+.moto_text{
+    font-size: 3vmin;
+    font-weight: 900;
+    text-align: center;
+}
+.p_header_text{
+    font-size: 2vmin;
+    text-align: end;
+}
+.moto_text{
+    font-size: 3vmin;
+}
+
+
+.page_content{
+    display: grid;
+    align-items: center;
+    justify-items: center;
+}
+.content_name{
+    font-size: 3vmin;
+    font-weight: 900;
+    text-align: center;
+}
+.content_text{
+    font-size: 2vmin;
+    text-align: center;
+}
+
+.page_footer{
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-around;
+    grid-template-columns: 70% 19%;
+    
+}
+.footer_text{
+    text-align: left;
+    font-size: 2vmin;
+}
+
+
+.addinfo{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+.addinfo_text{
+    font-size: 2vmin;
+    text-align: center;
+}
+
+.menu{
+    display: grid;
+    align-items: center;
+    justify-items: center;
+}
+.button_list{
+    list-style-type: none;
+    
+}
+
+.button_href{
+    font-size: 3vmin;
+}
+.button{
+    width: 100%;
+    height: 20%;
+    background-color: #ffff00;
+    border-radius: 2vmin;
+    margin: 10% 0;
+    padding: 2%;
+    text-align: center;
+}
